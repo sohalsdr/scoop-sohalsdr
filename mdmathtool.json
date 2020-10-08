@@ -5,7 +5,7 @@
     "license": "MIT",
     "url": "https://github.com/sohalsdr/mdMathTool/releases/download/1.2.0/mdMathTool_1.2.0.jar",
     "bin": [
-        ["java.exe", "mdmathtool", "-jar $dir\\mdMathTool.jar"]
+        ["java.exe", "mdmathtool", "-jar $dir\\mdMathTool_1.2.0.jar"]
     ],
     "suggest": {
         "JRE8": ["java/oraclejre8","java/openjdk8"]
